@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences: [2 Years of experience as an technical research expert]
   
-<img align="right" alt="data" width="400" src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif">
+<img align="right" alt="data" width="400" src="https://images.app.goo.gl/q8uVATEqk6FcxMPf9">
 
 
 <h3 align="left">Connect with me:</h3>
