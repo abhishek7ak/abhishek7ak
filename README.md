@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **abhishekjain5788@gmail.com**
 
-- 📄 Know about my experiences [2 Years of experience as an technical research expert](2 Years of experience as an technical research expert)
-
+- 📄 Know about my experiences: [2 Years of experience as an technical research expert]
+  
 <img align="right" alt="data" width="400" src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 
