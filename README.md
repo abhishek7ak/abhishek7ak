@@ -1,4 +1,4 @@
-![logo](https://github.com/abhishek7ak/abhishek7ak/blob/main/istockphoto-1447826928-170667a.webp)
+![logo](https://github.com/abhishek7ak/abhishek7ak/blob/main/3171d680-1d98-11ea-9bfd-51ba32490a41.png)
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">A passionate data analyst from india</h3>
 
