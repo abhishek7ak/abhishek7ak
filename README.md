@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences: [2 Years of experience as an technical research expert]
   
-<img align="right" alt="data" width="400" src="https://images.app.goo.gl/q8uVATEqk6FcxMPf9">
+<img align="right" alt="data" width="400" src="https://github.com/abhishek7ak/abhishek7ak/blob/main/de.webp">
 
 
 <h3 align="left">Connect with me:</h3>
